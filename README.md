@@ -9,7 +9,9 @@ My current projects include collaborating with three other Computer Science stud
 My grad plan features courses in C programming, R programming, Python, and a Linux Lab. 
 
 Contact me at:
+
 meganoudo@gmail.com 
+
 ou27@up.edu
 
 <!--
