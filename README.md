@@ -1,8 +1,5 @@
 ## Megan Ou | Univeristy of Portland '27 | she/her
 
-<!--
-**megan-ou/megan-ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello! 
 
 I am a student pursuing a Bachelor of Business Administration with a minor in Computer Science. I am interested in studying Operations and Technology Management with a focus on data analytics. In the coming years at UP, I hope to explore AI machine learning and to implement it in businesses and operational systems. 
@@ -14,5 +11,9 @@ My grad plan features courses in C programming, R programming, Python, and a Lin
 Contact me at:
 meganoudo@gmail.com 
 ou27@up.edu
+
+<!--
+**megan-ou/megan-ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 -->
